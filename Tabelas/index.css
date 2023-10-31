@@ -1,0 +1,83 @@
+.b1{
+    margin: 10px;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(0, 214, 0);
+}
+.b2{
+    margin: 10px;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: green;
+}
+.b3{
+    margin: 10px;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: darkgreen;
+}
+.preco1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 214, 0);
+}
+.preco2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: green;
+}
+.preco3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+}
+.inesistente{
+    visibility: hidden;
+}
+table{
+    margin-bottom: 30px;
+}
+.preco4{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.preco5{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.preco6{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.meio{
+    text-align: center;
+}
+.b4{
+    margin: 10px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-size: 17px;
+    border-radius: 5px;
+}
+.cinza{
+    background-color: gainsboro;
+}
